@@ -3,6 +3,7 @@
 
 The Smart PDF Reader is a mobile application that allows users to read PDF documents in an intuitive and effortless way. The app utilizes advanced technology to offer several features that enhance the user's reading experience.
 
+"we don't finish from this project"
 ## Features:
 
 > Eye-scrolling feature: The app is equipped with an eye-tracking feature that enables users to scroll through the PDF document simply by moving their eyes. This feature will be beneficial for users with disabilities, making it easier for them to read documents.
